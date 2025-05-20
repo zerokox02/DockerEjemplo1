@@ -1,0 +1,11 @@
+{
+  "name": "dockerejemplo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
